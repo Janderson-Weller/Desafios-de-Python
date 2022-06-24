@@ -1,0 +1,2 @@
+Classe carro que simula o objeto carro. Há os métodos básicos de manipulação do carro (ligar, passar marcha, acelerar etc).
+Você pode ficar a vontade para melhorar o código e para tê-lo como base, caso esteja estudando POO.
